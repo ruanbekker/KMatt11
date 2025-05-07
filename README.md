@@ -25,8 +25,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinzP&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KMatt11&hide=TeX&layout=compact)
 
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<KinzP>%2F<KinzP>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<KinzP>%2F<KinzP>)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<KMatt11>%2F<KMatt11>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<KMatt11>%2F<KMatt11>)
