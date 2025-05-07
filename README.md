@@ -9,9 +9,9 @@
 - :tada: Fun facts: My favorite color is pink, I love anything with :sparkles:glitter, I hiccup when I laugh too hard, I live at the beach :palm_tree: but miss the mountains, I love coffee (too much!!) and I strive to have the most fun everyday!  
 - :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kinsey%20Parham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
+[![Linkedin Badge](https://img.shields.io/badge/-Kinsey%20Matthews-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseymatthews/>)](<https://www.linkedin.com/in/kinseymatthews/>)
 
-[![Medium Badge](https://img.shields.io/badge/Kinsey%20Parham-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseyparham>)](<https://medium.com/@kinseyparham>)
+[![Medium Badge](https://img.shields.io/badge/Kinsey%20Matthews-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseymatthews>)](<https://medium.com/@kinseymatthews>)
 
 
 ## ⚡ Technologies:
